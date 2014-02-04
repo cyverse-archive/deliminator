@@ -1,4 +1,4 @@
-(defproject org.iplantc/deliminator "0.1.0-SNAPSHOT"
+(defproject org.iplantc/deliminator "0.1.0"
   :description "Clojure library for parsing character separated values."
   :url "https://github.com/iPlantCollaborativeOpenSource/deliminator"
   :license {:name "BSD Standard License"
